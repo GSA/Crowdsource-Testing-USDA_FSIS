@@ -13,7 +13,7 @@ Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
 If the links do not work, you may not be able to access Google Docs. 
 
-If that is the case send me a mail and I will send you the documents.
+If that is the case send me an email and I will send you the documents.
 
 <B>=== Mobile_Testing_101.docx ===<B>
 
@@ -37,10 +37,16 @@ This document gives instructions for completing the “Test Case Template”
 
 https://docs.google.com/spreadsheet/ccc?key=0Apwj1zG3FwNcdDMwSUMtYU53RzliQnZ3eXEzWVpvRkE&usp=drive_web#gid=1
 
-This is the test case that you are to download, complete and email back to us.
+This is the test case that you are to download, complete and email back to us. Any issues you find should be documented on this Github repository. 
+
+<B>=== USDA Test Cycle Issues Page/Discussion Board ===<B>
+
+Submit issues and asks questions here. Directions are in the Using Github.doc below.
+https://github.com/GSA/Crowdsource-Testing-USDA_FSIS/issues
+
 
 <B>=== Using Github.docx ===<B>
 
 NEED LINK
 
-Instructions for using GitHub in the crowdsource testcycles.
+Instructions for using GitHub in the crowdsource testcycles. 
