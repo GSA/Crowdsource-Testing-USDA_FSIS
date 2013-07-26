@@ -9,7 +9,7 @@ Test Cycle Dates: July 29, 2013 to August 4, 2013
 
 Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
-<B>Important Test Cycle Links (If the liks do not work, you may not be able to access Google Docs. If that is the case send me a mail and I will send you the documents):<B>
+<B>Important Test Cycle Links:<B> (If the liks do not work, you may not be able to access Google Docs. If that is the case send me a mail and I will send you the documents)
 
 <B>=== Mobile_Testing_101.docx ===<B>
 
