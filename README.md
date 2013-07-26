@@ -11,9 +11,9 @@ Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
 Important Test Cycle Links:
 
-Mobile_Testing_101.docx
 
-https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web
+
+[https://docs.google.com/document/d/1wQ8HWbpIk2qzcthuYjswC-FcU474aFb4qyrgYV3l0bs/edit?usp=drive_web Mobile_Testing_101.docx]
 
 This document gives some terms and insights into testing mobile applications.
 
