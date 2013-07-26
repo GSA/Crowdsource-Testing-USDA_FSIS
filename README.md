@@ -34,3 +34,9 @@ This document gives instructions for completing the “Test Case Template”
 https://docs.google.com/spreadsheet/ccc?key=0Apwj1zG3FwNcdDMwSUMtYU53RzliQnZ3eXEzWVpvRkE&usp=drive_web#gid=1
 
 This is the test case that you are to download, complete and email back to us.
+
+<B>=== Using Github.docx ===<B>
+
+NEED LINK
+
+Instructions for using GitHub in the crowdsource testcycles.
