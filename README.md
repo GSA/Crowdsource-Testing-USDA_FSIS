@@ -41,6 +41,6 @@ This is the test case that you are to download, complete and email back to us.
 
 <B>=== Using Github.docx ===<B>
 
-NEED LINK
+https://docs.google.com/document/d/1qzc4EViMz3r3Qg8DGf2MXdovJA0Kuv2DnhZVgjDvfV4/edit?usp=drive_web
 
 Instructions for using GitHub in the crowdsource testcycles.
